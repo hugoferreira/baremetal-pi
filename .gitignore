@@ -1,0 +1,3 @@
+src/link.ld
+build/**
+.gdb_history
